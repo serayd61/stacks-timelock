@@ -27,3 +27,10 @@ Time-locked transactions and vesting on Stacks.
 ## License
 MIT
 
+
+
+---
+## Timelock Contract
+- ✅ Time-based token locks
+- ✅ Scheduled releases
+- ✅ Mainnet deployed
